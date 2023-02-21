@@ -16,6 +16,11 @@ Carrhythmia is a website which can help the doctors in determining whether the p
 5. Finally run the following command on your console and you're ready to go!  
 ``` python3 carrhythmia.py ```
 
-Website: https://carrhythmia.herokuapp.com
-### Do support the project by starring the repository if you liked our work!
+## Website 
+https://carrhythmia.herokuapp.com
+
+
+## Paper Link
+- [Application of Machine Learning in Cardiac Arrhythmia](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003133681-7/application-machine-learning-cardiac-arrhythmia-gresha-bhatia-shefali-athavale-yogita-bhatia-tanya-mohanani-akanksha-mittal?context=ubx&refId=d0e1a0d0-c3c3-45e5-a739-50b258375893)
+- [Classification of Cardiac Arrhythmia using Kernelized SVM](https://ieeexplore.ieee.org/document/9143000)
 
